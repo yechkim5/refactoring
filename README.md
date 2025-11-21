@@ -239,7 +239,7 @@ repository.
 
 > **Important**: do this each time you are asked to commit your work in the remaining tasks.
 
-- [ ] Commit your changes to `log.txt` now; **include the string `Task 1.2` in your commit message.** 
+- [x] Commit your changes to `log.txt` now; **include the string `Task 1.2` in your commit message.** 
 
 > **Note:** this commit won't include the updated log with the most recent commit, which is fine.
 > The next time we ask you to commit, you'll update your `log.txt` file again and commit the updated log.
